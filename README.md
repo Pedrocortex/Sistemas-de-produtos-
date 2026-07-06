@@ -91,7 +91,7 @@ The project includes functions responsible for:
 
 1. Open the project in Google Colab:
 
-   https://colab.research.google.com/drive/15maMUG0TkEqVMdmBF1PEkMIkd1CfFEw5
+   https://colab.research.google.com/drive/1s5VmRCv8Ot_ueg2gqa7MUrEPjUp_fVgY
 
 2. Click the **Run** button (▶) in the upper-left corner.
 
